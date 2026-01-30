@@ -1,4 +1,4 @@
-# 📘 Pesquisa Binária — Projeto Didático
+# Pesquisa Binária — Projeto Didático
 
 Este projeto foi criado para **ensinar o que é pesquisa binária**, **como ela funciona** e **por que ela é eficiente**, usando um exemplo interativo em JavaScript.
 
@@ -6,7 +6,7 @@ A ideia não é só ver o código, mas **entender o raciocínio** por trás do a
 
 ---
 
-## 🎯 O que é Pesquisa Binária?
+## O que é Pesquisa Binária ou Binary search?
 
 Pesquisa binária é um **algoritmo de busca** usado quando os dados estão **ordenados**.
 
@@ -19,7 +19,7 @@ Isso torna a busca **muito mais rápida**.
 
 ---
 
-## 📌 Exemplo simples
+## Exemplo simples
 
 Imagine que você pensou em um número de **1 a 100**.
 
@@ -56,7 +56,7 @@ Neste projeto:
 
 ---
 
-## 🔍 Lógica usada no código
+## Lógica usada no código
 
 O sistema mantém três valores:
 
@@ -103,7 +103,7 @@ Isso ajuda a **visualizar o algoritmo funcionando** passo a passo.
 
 ---
 
-## 🚀 Por que pesquisa binária é eficiente?
+## Por que pesquisa binária é eficiente?
 
 Comparação de tentativas:
 
@@ -130,14 +130,7 @@ Se isso não for possível, a pesquisa binária **não funciona**.
 
 ---
 
-## 📚 Para que isso é usado?
 
-Pesquisa binária é usada em:
 
-* busca em listas ordenadas
-* bancos de dados
-* algoritmos de otimização
-* jogos e IA simples
-* sistemas que precisam ser rápidos
 
 ---
